@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://inpianda.dev/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://inpianda.dev/projects</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://inpianda.dev/about</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://inpianda.dev/contact</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://inpianda.dev/form</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://inpianda.dev/documentation</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://inpianda.dev/project</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://inpianda.dev/theory</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://inpianda.dev/note</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://inpianda.dev/settings</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://inpianda.dev/projects#cplus-compiler</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://inpianda.dev/projects#inpianda-os</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://inpianda.dev/projects#cplus-language</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+</urlset>
