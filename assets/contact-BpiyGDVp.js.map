@@ -1,0 +1,1 @@
+{"version":3,"file":"contact-BpiyGDVp.js","sources":["../../contact.html?html-proxy&index=1.js"],"sourcesContent":["\n    if ('serviceWorker' in navigator) {\n      navigator.serviceWorker.register('/sw.js').catch(() => {});\n    }\n  "],"names":[],"mappings":"2BACQ,kBAAmB,WACrB,UAAU,cAAc,SAAS,QAAQ,EAAE,MAAM,IAAM,CAAC,CAAC"}
